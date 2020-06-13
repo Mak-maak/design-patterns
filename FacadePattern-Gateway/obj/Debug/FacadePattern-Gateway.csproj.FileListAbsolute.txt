@@ -1,0 +1,7 @@
+C:\Users\Mak\source\repos\FacadePattern-Gateway\FacadePattern-Gateway\bin\Debug\FacadePattern-Gateway.exe.config
+C:\Users\Mak\source\repos\FacadePattern-Gateway\FacadePattern-Gateway\bin\Debug\FacadePattern-Gateway.exe
+C:\Users\Mak\source\repos\FacadePattern-Gateway\FacadePattern-Gateway\bin\Debug\FacadePattern-Gateway.pdb
+C:\Users\Mak\source\repos\FacadePattern-Gateway\FacadePattern-Gateway\obj\Debug\FacadePattern-Gateway.csprojAssemblyReference.cache
+C:\Users\Mak\source\repos\FacadePattern-Gateway\FacadePattern-Gateway\obj\Debug\FacadePattern-Gateway.csproj.CoreCompileInputs.cache
+C:\Users\Mak\source\repos\FacadePattern-Gateway\FacadePattern-Gateway\obj\Debug\FacadePattern-Gateway.exe
+C:\Users\Mak\source\repos\FacadePattern-Gateway\FacadePattern-Gateway\obj\Debug\FacadePattern-Gateway.pdb
