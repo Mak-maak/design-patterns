@@ -1,2 +1,2 @@
 # Design Patterns
-This repository contains classified implementation of Design Patterns in .NET C#.
+This repository contains classified implementation of Design Patterns such as Creational, Structural, Behavioural patterns in .NET C#.
